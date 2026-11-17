@@ -1,0 +1,8 @@
+{
+  "name": "Marhaba Super Market | Restaurant | Play Land",
+  "description": "Marhaba Supermarket — The Art of Shopping, Dining \u0026 Family Entertainment in Hyderabad \u0026 Karachi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
